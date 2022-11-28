@@ -9,6 +9,8 @@ public class GenericExample {
 		box1.content = "안녕안녕";
 		String str = box1.content;
 		System.out.println(str);
+
+		
 		
 		
 		Box<Integer> box2 = new Box<>();
